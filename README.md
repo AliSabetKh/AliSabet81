@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisabet81" alt="alisabet81" /></a><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> </p>
 
-- 🔭 I’m currently working on **things good**
+- 🔭 I’m currently working on **good things**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliSabet81?tab=repositories](https://github.com/AliSabet81?tab=repositories)
 
