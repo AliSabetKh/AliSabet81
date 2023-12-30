@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ali Sabet</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisabet81" alt="alisabet81" /></a><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisabet81&column=6&theme=radical&margin-w=15&margin-h=15" alt="Coding" /></a></p>
 
 - 🔭 I’m currently working on **good things**
 
