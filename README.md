@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisabet81&column=6&theme=radical&margin-w=15&margin-h=15" alt="Coding" /></a></p>
 
-- 🔭 I’m currently working on inja.homes
+- 🔭 I’m currently working on [inja.homes]
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliSabet81?tab=repositories](https://github.com/AliSabet81?tab=repositories)
 
