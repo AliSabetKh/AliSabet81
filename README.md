@@ -1,5 +1,4 @@
-[![MasterHead]]
-(![image](https://github.com/AliSabet81/AliSabet81/assets/123770058/5796aa78-d5f6-4b34-aaea-ca060239ecba))](https://github.com/AliSabet81)
+[![MasterHead](![image](https://github.com/AliSabet81/AliSabet81/assets/123770058/5796aa78-d5f6-4b34-aaea-ca060239ecba))](https://github.com/AliSabet81)
 
 <h1 align="center">Hi 👋, I'm Ali Sabet</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
