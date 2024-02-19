@@ -18,8 +18,6 @@
 
 <a href="#">
 	
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&theme=radical&langs_count=80) -->
-	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisabet81&layout=compact&langs_count=80&theme=radical)
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisabet81&show_icons=true&theme=radical)
