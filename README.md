@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Sabet</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
+ ```typescript
+const WhoAmI = () =>{
+	     name = 'Ali Sabet'
+         age = 21
+   	current_work = 'Front End Developer'
+   	learning = ['socket', 'nextjs', 'native']
+   
+   getCity():
+   	return Shiraz_Iran()
+	}
+ ```
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisabet81&column=6&theme=radical&margin-w=15&margin-h=15" alt="Coding" /></a></p>
 
 - 🔭 I’m currently working at [inja.homes](https://inja.homes)
